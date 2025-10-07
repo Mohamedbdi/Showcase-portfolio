@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="[https://jigarsable.netlify.app/](https://mohamedbdi.github.io/Showcase-portfolio/)" target="_blank">**Visit Now** 🚀</a>
+<a href="[https://jigarsable.netlify.app/](https://mohamedbdi.github.io/Showcase-portfolio)" target="_blank">**Visit Now** 🚀</a>
 
 
 
